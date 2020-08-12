@@ -1,1 +1,2 @@
 # ServiceSentinel
+Windows 服务和IIS应用池哨兵，确保不会因为exception导致停止服务
