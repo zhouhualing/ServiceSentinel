@@ -1,0 +1,1 @@
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\msbuild ServiceSentinel.sln /p:platform=x64 /p:configuration=Release
